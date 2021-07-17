@@ -4,6 +4,7 @@ Wikipedia-like Encyclopedia built using HTML, CSS and django.
 User can use it for create New page on a specific topic, Edit, Delete, Search and get Random Page of whole entries.
 
 **How to Run**
+
 Step I: pip3 install markdown2
 
 Step II: python3 manage.py runserver
