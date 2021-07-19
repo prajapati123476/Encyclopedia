@@ -1,6 +1,8 @@
 
 # Encyclopedia
 Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
+![wiki](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
+
 
 ## Notable Features:
 - Create, Edit and Delete pages with complete markdown syntax support
@@ -23,7 +25,5 @@ Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
   ```
   
 ---
-
-![wiki](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
 
 Built in accordance with CS50 Web Programming with Python and JavaScript [Project 1](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
