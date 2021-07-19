@@ -2,7 +2,8 @@
 # Encyclopedia
 Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.  
 
-![wiki](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
+![homepage](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
+![kotlin-wiki](https://user-images.githubusercontent.com/22092047/126103305-659422de-dd45-40cd-9c97-e4079ff6228f.png)
 
 
 ## Notable Features:
