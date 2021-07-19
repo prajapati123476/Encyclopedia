@@ -1,13 +1,28 @@
 
 # Encyclopedia
-Wikipedia-like website Encyclopedia built using HTML, CSS and django.
-User can use it for create New page on a specific topic, Edit, Delete, Search and get Random Page of whole entries.
+Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
 
-**How to Run**
+## Notable Features:
+- Create, Edit and Delete pages with complete markdown syntax support
+- Search through pages to find your required data
+- Enhanced your knowledge by going to a random page
 
-Step I: pip3 install markdown2
-
-Step II: python3 manage.py runserver
+### How to run:
+1. Open a terminal and clone the repo
+  ```
+  git clone https://github.com/prajapati123476/Encyclopedia
+  ```
+2. cd into the folder and install requirements (**Use pip3 for Linux**)
+  ```
+  cd Encyclopedia
+  pip install -r requirements.txt
+  ```
+3. Start the server on localhost
+  ```
+  python manage.py runserver
+  ```
+  
+---
 
 ![wiki](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
 
