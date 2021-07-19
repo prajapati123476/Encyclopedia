@@ -7,8 +7,8 @@ Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
 
 ## Notable Features:
 - Create, Edit and Delete pages with complete markdown syntax support
-- Search through pages to find your required data
-- Enhanced your knowledge by going to a random page
+- Search through the pages catalog to find your required data
+- Enhance your knowledge by going to a random page
 
 ### How to run:
 1. Open a terminal and clone the repo
