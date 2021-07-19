@@ -1,6 +1,6 @@
 
 # Encyclopedia
-Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
+Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.  
 ![wiki](https://user-images.githubusercontent.com/61092127/126044410-897cb9a5-f4d8-433a-b707-342421883281.jpeg)
 
 
