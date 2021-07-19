@@ -12,18 +12,18 @@ Wikipedia-like Encyclopedia Web App built with HTML, CSS and django.
 
 ### How to run:
 1. Open a terminal and clone the repo
-  ```
-  git clone https://github.com/prajapati123476/Encyclopedia
-  ```
+    ```
+    git clone https://github.com/prajapati123476/Encyclopedia
+    ```
 2. cd into the folder and install requirements (**Use pip3 for Linux**)
-  ```
-  cd Encyclopedia
-  pip install -r requirements.txt
-  ```
+    ```
+    cd Encyclopedia
+    pip install -r requirements.txt
+    ```
 3. Start the server on localhost
-  ```
-  python manage.py runserver
-  ```
+    ```
+    python manage.py runserver
+    ```
   
 ---
 
